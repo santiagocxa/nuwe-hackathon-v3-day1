@@ -20,4 +20,7 @@
   - En **containerts** esta el archivo que contiene la aplicacion de la segunda parte
   - En **test** no se han implementado todos *aun asi es importante hacer los test antes que nada :(*
 
+### Puclicado en:
+
+  - https://santiagocxa.github.io/nuwe-hack/
 
