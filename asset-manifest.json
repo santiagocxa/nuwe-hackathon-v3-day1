@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nuwe-hack/static/css/main.896456a8.chunk.css",
+    "main.js": "/nuwe-hack/static/js/main.473e8c5c.chunk.js",
+    "main.js.map": "/nuwe-hack/static/js/main.473e8c5c.chunk.js.map",
+    "runtime-main.js": "/nuwe-hack/static/js/runtime-main.1678e01f.js",
+    "runtime-main.js.map": "/nuwe-hack/static/js/runtime-main.1678e01f.js.map",
+    "static/js/2.7cfe89b1.chunk.js": "/nuwe-hack/static/js/2.7cfe89b1.chunk.js",
+    "static/js/2.7cfe89b1.chunk.js.map": "/nuwe-hack/static/js/2.7cfe89b1.chunk.js.map",
+    "static/js/3.3cca2796.chunk.js": "/nuwe-hack/static/js/3.3cca2796.chunk.js",
+    "static/js/3.3cca2796.chunk.js.map": "/nuwe-hack/static/js/3.3cca2796.chunk.js.map",
+    "index.html": "/nuwe-hack/index.html",
+    "static/css/main.896456a8.chunk.css.map": "/nuwe-hack/static/css/main.896456a8.chunk.css.map",
+    "static/js/2.7cfe89b1.chunk.js.LICENSE.txt": "/nuwe-hack/static/js/2.7cfe89b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1678e01f.js",
+    "static/js/2.7cfe89b1.chunk.js",
+    "static/css/main.896456a8.chunk.css",
+    "static/js/main.473e8c5c.chunk.js"
+  ]
+}
