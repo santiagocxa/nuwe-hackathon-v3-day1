@@ -1,0 +1,46 @@
+.Profile {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Profile-description {
+  justify-content: center;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Profile img {
+  width: 90%;
+  max-width: 350px;
+}
+
+.Profile-details {
+  width: 100%;
+  max-width: 450px;
+  padding:20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+.Profile-details {
+  font-size: 1.6rem;
+}
+
+@media only screen and (min-width: 768px) {
+
+
+  .Profile-description {
+    justify-content: center;
+    max-width: 1000px;
+  }
+
+  .Profile-details {
+    display: block;
+  }
+
+}
